@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+## HALO KITA ANAK SEKRE SOSIOLOGI UGM
 
-You can use the [editor on GitHub](https://github.com/arifaji18/anssoscerdig/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>KMS COOPERATION
+  </head><link rel="stylesheet" href="stylesheet.css">
+  <body>
+      </header>
+    <h1 class="title">Halo kita anak sekre Sosiologi UGM</h1>
+    <div class="container">
+          <div class="header-left">
+            <img class="logo" src="https://sosiologi.fisipol.ugm.ac.id/wp-content/uploads/sites/1453/2021/03/head-blk.png">
+          </div>
+          <span class="fa fa-bars menu-icon"></span>
+          <div class="header-right">
+            <a href="#">Sign in</a>
+            <a href="#" class="login">Log in</a>
+          </div>
+        </div>
+    </head>
+  </body>
+    
+    <div class="top-wrapper">
+    <div class="container">
+      <h1>KABINET KRENYESIN AJA</h1>
+      <p>Kami adalah Mahasiswa dari Departemen Sosiologi UGM </p>
+      <p>web ini digunakan KMS untuk mengetahui program-program terkini dari kabinet Krenyesin Aja</p>
+      <div class="btn-wrapper">
+        <a href="#" class="btn signup">Sign up with Email</a>
+        <p>or</p>
+        <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Sign up with Facebook</a>
+        <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Sign up with Twitter</a>
+      </div>
+    </div>
+  <footer<footer>
+    <div class="container">
+      <p>Ini footer ya kak :)</p>
+    </div>
+        }
+        </div>
+        </style>
+        <body>
+  </footer>
+  <style> 
+    div {
+      width: 1500px;
+      height: 1500px;
+      background-color: rgb(248, 248, 248);
+      position: relative;
+      animation-name: example;
+      animation-duration: 4s;
+    }
+    
+    @keyframes example {
+      0%   {background-color:rgb(255, 136, 0); left:0px; top:0px;}
+      25%  {background-color:yellow; left:200px; top:0px;}
+      50%  {background-color:blue; left:200px; top:200px;}
+      75%  {background-color:green; left:0px; top:200px;}
+      100% {background-color:rgb(255, 174, 0); left:0px; top:0px;}
+    }
+    </style>
+    </head>
+    <body>
+    
+    
+    <div></div>
+</html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arifaji18/anssoscerdig/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
