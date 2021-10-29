@@ -4,7 +4,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Progate</title>KMS COOPERATION
   </head><link rel="stylesheet" href="stylesheet.css">
   <body>
       </header>
