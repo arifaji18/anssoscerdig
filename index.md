@@ -38,32 +38,6 @@
       <p>Ini footer ya kak :)</p>
     </div>
         }
-        </div>
-        </style>
-        <body>
-  </footer>
-  <style> 
-    div {
-      width: 1500px;
-      height: 1500px;
-      background-color: rgb(248, 248, 248);
-      position: relative;
-      animation-name: example;
-      animation-duration: 4s;
-    }
-    
-    @keyframes example {
-      0%   {background-color:rgb(255, 136, 0); left:0px; top:0px;}
-      25%  {background-color:yellow; left:200px; top:0px;}
-      50%  {background-color:blue; left:200px; top:200px;}
-      75%  {background-color:green; left:0px; top:200px;}
-      100% {background-color:rgb(255, 174, 0); left:0px; top:0px;}
-    }
-    </style>
-    </head>
-    <body>
-    
-    
     <div></div>
 </html>
 
